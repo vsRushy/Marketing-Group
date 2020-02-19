@@ -13,6 +13,10 @@
     min-height: inherit;
 }
 
+.bg-lightgray {
+    background-color: lightgray;
+}
+
 .center-inside-image {
     position: absolute;
     transform: translate(-50%, -40%);
@@ -20,4 +24,22 @@
     left: 50%;
     -webkit-filter: drop-shadow(5px 5px 5px #222);
     filter: drop-shadow(5px 5px 5px #222);
+}
+
+.navbar-custom {
+    background-color: red;
+}
+
+.navbar-custom .navbar-brand,
+.navbar-custom .navbar-text {
+    color: rgba(255,255,255,.8);
+}
+
+.navbar-custom .navbar-nav .nav-link {
+    color: rgba(255,255,255,1);
+}
+
+.navbar-custom .nav-item.active .nav-link,
+.navbar-custom .nav-item:hover .nav-link {
+    color: white;
 }
