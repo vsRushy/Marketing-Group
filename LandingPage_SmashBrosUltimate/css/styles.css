@@ -1,29 +1,25 @@
 .header {
-    text-align: center;
-    min-width: 100%;
-    min-height: 100%;
-    max-width: 100%;
-    max-height: 100%;
+    position: relative;
+    display: block;
 }
 
 .bg-image {
-    max-width: inherit;
-    max-height: inherit;
-    min-width: inherit;
-    min-height: inherit;
-}
-
-.bg-lightgray {
-    background-color: lightgray;
+    max-width: 100%;
 }
 
 .center-inside-image {
     position: absolute;
-    transform: translate(-50%, -40%);
-    top: 40%;
+    max-width: 30%;
+    transform: translate(-50%, -50%);
     left: 50%;
+    top: 50%;
+
     -webkit-filter: drop-shadow(5px 5px 5px #222);
     filter: drop-shadow(5px 5px 5px #222);
+}
+
+.bg-lightgray {
+    background-color: lightgray;
 }
 
 .navbar-custom {
