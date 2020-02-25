@@ -20,9 +20,26 @@
 
 .main-quote {
     font-family: 'Luckiest Guy', cursive;
-    font-size: 75px;
+    font-size: 70px;
     -webkit-filter: drop-shadow(2px 2px 2px #222);
     filter: drop-shadow(2px 2px 2px #222);
+}
+
+.btn-default-cst {
+    background-color: red;
+    color:#FFF;
+    border-color: #2F3E48;
+}
+ 
+.btn-default-cst:hover,
+.btn-default-cst:focus,
+.btn-default-cst:active,
+.btn-default-cst.active,
+.open
+.dropdown-toggle.btn-default-cst {
+    background-color: #2F3E48; 
+    color:#FFF;
+    border-color: grey;
 }
 
 .trailer-text {
