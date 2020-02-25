@@ -31,6 +31,7 @@
 
 .navbar-custom {
     color: red;
+    background-color: red;
     -webkit-filter: drop-shadow(2px 2px 5px #222);
     filter: drop-shadow(2px 2px 5px #222);
 }
