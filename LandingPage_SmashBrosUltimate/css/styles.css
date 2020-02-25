@@ -44,6 +44,7 @@
 
 .trailer-text {
     font-family: 'Luckiest Guy', cursive;
+    color: whitesmoke;
     font-size: 40px;
     -webkit-filter: drop-shadow(1px 1px 1px #222);
     filter: drop-shadow(1px 1px 1px #222);
@@ -63,6 +64,10 @@
 
 .bg-lightgray {
     background-color: lightgray;
+}
+
+.trailer-area {
+    background-color: rgb(27, 27, 27);
 }
 
 .navbar-custom {
