@@ -25,6 +25,13 @@
     filter: drop-shadow(2px 2px 2px #222);
 }
 
+.trailer-text {
+    font-family: 'Luckiest Guy', cursive;
+    font-size: 40px;
+    -webkit-filter: drop-shadow(1px 1px 1px #222);
+    filter: drop-shadow(1px 1px 1px #222);
+}
+
 .bg-lightgray {
     background-color: lightgray;
 }
