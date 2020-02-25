@@ -10,9 +10,9 @@
 .center-inside-image {
     position: absolute;
     max-width: 30%;
-    transform: translate(-50%, -50%);
+    transform: translate(-50%, -55%);
     left: 50%;
-    top: 50%;
+    top: 55%;
 
     -webkit-filter: drop-shadow(10px 10px 10px #222);
     filter: drop-shadow(10px 10px 10px #222);
