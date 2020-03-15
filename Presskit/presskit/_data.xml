@@ -2,36 +2,30 @@
 <!-- example file containing base tags -->
 
 <game>	
-	<title>Company Name</title>
-	<founding-date>September 1, 2010</founding-date>
-	<website>http://www.website.com/</website>
-	<based-in>Cityville, Metropolisland</based-in>
+	<title>Nintendo</title>
+	<founding-date>September 23, 1889</founding-date>
+	<website>https://www.nintendo.com/</website>
+	<based-in>London, United Kingdom</based-in>
 	
-	<press-contact>press-contact@company.com</press-contact>
-	<phone>+00 (1) 22 33 44 55 66</phone>
+	<press-contact>pr@nintendo.co.uk</press-contact>
+	<phone>1 (855) 548-4693</phone>
 	<address>
-		<line>Address Line 1</line>
-		<line>Address Line 2</line>
-		<line>Address Line 3</line>
+		<line>55-57, The Quadrant, High St, Windsor SL4 1LP, UK</line>
 	</address>
 
 	<socials>
 		<social>
-			<name>twitter.com/MyCompanyName</name>
+			<name>twitter.com/nintendouk</name>
 			<link>twitter.com/MyCompanyName</link>
 		</social>
 		<social>
-			<name>facebook.com/MyCompanyName</name>
-			<link>facebook.com/MyCompanyName</link>
-		</social>
-		<social>
-			<name>Skype</name>
-			<link>callto:MySkypeName</link>
+			<name>facebook.com/Nintendo</name>
+			<link>facebook.com/Nintendo</link>
 		</social>
 	</socials>
 
 	<description>	
-		We're games studio and we make games. We're also capable of editing XML files.
+		Creators of Super Smash Bros Ultimate.
 	</description>
 		
 	<histories>
@@ -47,13 +41,8 @@
 		
 	<trailers>
 		<trailer>
-			<name>This video is nice</name>
-			<youtube>7jQbITg0MSk</youtube>
-		</trailer>
-		<trailer>
-			<name>This one too</name>
-			<youtube>0CevOaYrYDA</youtube>
-			<vimeo>12536488</vimeo>
+			<name>Smash Bros Ultimate - World of Light</name>
+			<youtube>https://www.youtube.com/watch?v=WShCN-AYHqA</youtube>
 		</trailer>
 	</trailers>
 	
