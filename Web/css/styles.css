@@ -34,6 +34,17 @@
     filter: drop-shadow(10px 10px 10px #222);
 }
 
+.center-inside-image-text {
+    position: absolute;
+    max-width: 30%;
+    transform: translate(-50%, -80%);
+    left: 50%;
+    top: 80%;
+
+    -webkit-filter: drop-shadow(10px 10px 10px #222);
+    filter: drop-shadow(10px 10px 10px #222);
+}
+
 .main-quote {
     font-family: 'Luckiest Guy', cursive;
     font-size: 70px;
